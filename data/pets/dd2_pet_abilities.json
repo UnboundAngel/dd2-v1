@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Blizzard",
+    "description": "Summon a blizzard that slows nearby enemies for 40% and deals 125% water Hero Damage per second for 8s.",
+    "cooldownSec": 20,
+    "type": "Water",
+    "notes": "Any water damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Boulder",
+    "description": "Roll a giant boulder through 5 enemies, dealing 1,500% crushing earth Hero Damage.",
+    "cooldownSec": 45,
+    "type": "Earth",
+    "notes": "Any earth damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Bouncing Fire",
+    "description": "Fires a bouncing fireball piercing 5 enemies and dealing 1,100% fire Hero Damage.",
+    "cooldownSec": 30,
+    "type": "Fire",
+    "notes": "Any fire damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Bouncing Phoenix",
+    "description": "Fires a bouncing phoenix that bounces to a nearby 10 enemies dealing 2,000% fire Hero Damage and explodes on the last target dealing the same damage to all nearby targets.",
+    "cooldownSec": 45,
+    "type": "Special",
+    "notes": "Bound to the Fenix pet and its gold variant from Embermount Volcano."
+  },
+  {
+    "name": "Bouncing Shell",
+    "description": "Fires a bouncing Shell that bounces to a nearby 10 enemies dealing 2,000% Hero Earth Damage and explodes on the last target dealing the same damage to all nearby targets.",
+    "cooldownSec": 45,
+    "type": "Special",
+    "notes": "Bound to the premium pet Shinobi Turtle."
+  },
+  {
+    "name": "Bubble Entrapment",
+    "description": "Fire a bubble that knocks up an enemy for 5 sec and deals 2,400% water Hero Damage.",
+    "cooldownSec": 30,
+    "type": "Water",
+    "notes": "Any water damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Cat Wail",
+    "description": "Scares enemies with cuteness, increasing their damage taken by 100% for 5s.",
+    "cooldownSec": 60,
+    "type": "Special",
+    "notes": "Bound to Dapper Ghost Cat, Spooky Ghost Cat, and Ghost Cat."
+  },
+  {
+    "name": "Chain Lightning",
+    "description": "Fire a lightning ball that can hit 4 enemies for 850% storm Hero Damage.",
+    "cooldownSec": 30,
+    "type": "Storm",
+    "notes": "Any storm damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Chained Saw",
+    "description": "Fires a flying saw blade that deals 1,500% hero damage and returns to the player dealing damage on the way back.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to the premium pet Chainsaw Corgi."
+  },
+  {
+    "name": "Chi Blast",
+    "description": "Fires a Chi Blast toward your enemies, dealing 2,000% magical Hero Damage.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to Voodoo Monk pet from Prime VII."
+  },
+  {
+    "name": "Curse Aura",
+    "description": "Boosts speed by 50%, reduces enemy damage by 50% and deals 150% magical Hero Damage for 10s.",
+    "cooldownSec": 45,
+    "type": "Creeper",
+    "notes": "Any Creeper pet without set abilities can roll this."
+  },
+  {
+    "name": "Cyclone",
+    "description": "Increases speed by 50% and attacks deal 155% bonus earth Hero Damage for 6s.",
+    "cooldownSec": 45,
+    "type": "Special",
+    "notes": "Bound to the premium pet Automeow."
+  },
+  {
+    "name": "Dragon Breath",
+    "description": "Breathes fire in a frontal cone, dealing 200% magical Hero Damage per second for 5s.",
+    "cooldownSec": 30,
+    "type": "Dragon",
+    "notes": "Any Dragon pet without set abilities can roll this."
+  },
+  {
+    "name": "Dragon Protection",
+    "description": "Shields nearby defenses for 400% Hero Damage for 10s.",
+    "cooldownSec": 45,
+    "type": "Dragon",
+    "notes": "Any Dragon pet without set abilities can roll this."
+  },
+  {
+    "name": "Drenching Wave",
+    "description": "Rolls a wave dealing 625% water Hero Damage and drenching enemies for 5s.",
+    "cooldownSec": 30,
+    "type": "Water",
+    "notes": "Any water damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Dust Devil",
+    "description": "Fires a magical Stone that stirs up a heavy Sand Storm, slowing enemies by 40% and dealing 600% Hero Earth Damage every second for 10 seconds.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to the premium pet Earthen Dragon and its golden variant."
+  },
+  {
+    "name": "Encouragement",
+    "description": "Uplift your spirit by restoring 75 blue mana!",
+    "cooldownSec": 28,
+    "type": "Gato",
+    "notes": "Any Gato pet without set abilities can roll this."
+  },
+  {
+    "name": "Field of Swords",
+    "description": "Create a field of swords dealing 130% physical Hero Damage per second for 15s.",
+    "cooldownSec": 60,
+    "type": "Special",
+    "notes": "Bound to Possesed Sword and Tainted Sword."
+  },
+  {
+    "name": "Fire Barrage",
+    "description": "Fire 6 fireballs at your target, dealing 425% fire Hero Damage each.",
+    "cooldownSec": 20,
+    "type": "Fire",
+    "notes": "Any fire damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Fire Pillar",
+    "description": "Creates a flaming pillar dealing 200% fire Hero Damage per second for 10s.",
+    "cooldownSec": 45,
+    "type": "Fire",
+    "notes": "Any fire damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Fire Shield",
+    "description": "Gain a fire shield for 6s reflecting 1,500% damage taken before resist.",
+    "cooldownSec": 30,
+    "type": "Fire",
+    "notes": "Any fire damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Frost Shards",
+    "description": "Fire 8 frost shards dealing 265% water Hero Damage each.",
+    "cooldownSec": 20,
+    "type": "Water",
+    "notes": "Any water damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Frost Spike",
+    "description": "Summons a chilling aura, creating frost spikes under all nearby foes that knock them up and deals 1,000% Frost Hero Damage.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Only on Nutcracker, Penguin Commander, or Snow Mage pets (and gold variants)."
+  },
+  {
+    "name": "Gato Fireworks",
+    "description": "Fires a trio of fireworks dealing 915% magical Hero Damage each.",
+    "cooldownSec": 30,
+    "type": "Gato",
+    "notes": "Any Gato pet without set abilities can roll this."
+  },
+  {
+    "name": "Ghost Wail",
+    "description": "Haunt enemies, increasing damage taken by 100% for 5s.",
+    "cooldownSec": 60,
+    "type": "Special",
+    "notes": "All Dragolich pets can roll this."
+  },
+  {
+    "name": "Gravebolt",
+    "description": "Fires a bolt at one enemy, dealing 2,500% magical Hero Damage and healing 3% of damage dealt.",
+    "cooldownSec": 30,
+    "type": "Creeper",
+    "notes": "Any Creeper pet without set abilities can roll this."
+  },
+  {
+    "name": "Hawk Strike",
+    "description": "Fires a piercing Flaming Hawk toward your enemies, dealing 2,000% magical Hero Damage.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to Voodoo Huntress pet from Prime VII."
+  },
+  {
+    "name": "Heavy Blizzard",
+    "description": "Fires a magical snowball that stirs up a heavy blizzard, slowing enemies by 40% and dealing 600% Frost Damage every second for 10 seconds.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Only on Nutcracker, Penguin Commander, or Snow Mage pets (and gold variants)."
+  },
+  {
+    "name": "Hex",
+    "description": "Nearby enemies take 1,250% magical Hero Damage and then deal 50% less damage for 9s.",
+    "cooldownSec": 45,
+    "type": "Creeper",
+    "notes": "Any Creeper pet without set abilities can roll this."
+  },
+  {
+    "name": "Ice Ball",
+    "description": "Roll an ice ball through 5 enemies, dealing 1,800% water Hero Damage.",
+    "cooldownSec": 60,
+    "type": "Water",
+    "notes": "Any water damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Jackalope's Curse",
+    "description": "Nearby enemies take 1,000% magical Hero Damage, deal 50% less damage, and take 50% extra damage for 9s.",
+    "cooldownSec": 35,
+    "type": "Special",
+    "notes": "Any Jackalope and Corrupted Jackalope can roll this."
+  },
+  {
+    "name": "Jurassic War Cry",
+    "description": "Resets all hero abilities cooldowns.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Any Dino, Golden Dino, and Amber Dino pet can roll this."
+  },
+  {
+    "name": "Laser Eye",
+    "description": "Fire a laser from your crystal eye at the enemies!",
+    "cooldownSec": 7,
+    "type": "Special",
+    "notes": "Bound to Protobot pet. (More than likely a bug in the game)"
+  },
+  {
+    "name": "Lightning Grenade",
+    "description": "Lob a sticky grenade that detonates on enemies dealing 2,000% storm Hero Damage.",
+    "cooldownSec": 45,
+    "type": "Storm",
+    "notes": "Any storm damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Lil Betsy Projectile",
+    "description": "Fires a bolt dealing 2,500% magical Hero Damage and reducing enemy damage by 50% for 8s.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Can be rolled on all Betsy-type pets."
+  },
+  {
+    "name": "Maelstorm",
+    "description": "A maelstorm reduces speed and attacks by 40% and deals 220% Hero Damage per second for 8s.",
+    "cooldownSec": 60,
+    "type": "Special",
+    "notes": "Bound to Unbound Bearkira and Bearkira."
+  },
+  {
+    "name": "Magical Burst",
+    "description": "Fires 5 Magical Burst dealing 355% magical Hero Damage each.",
+    "cooldownSec": 60,
+    "type": "Special",
+    "notes": "Bound to Corrupted Genie Prince pet."
+  },
+  {
+    "name": "Mana Swirl",
+    "description": "Restores 500 Ability Mana.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to Genie Prince pet."
+  },
+  {
+    "name": "Metsu Gatodouken",
+    "description": "Fire a devastating magical blast dealing 2,500% Hero Damage and knockback to one enemy.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to the premium pet Katkarot."
+  },
+  {
+    "name": "Oil Spit",
+    "description": "Lobs an oiling blob at enemies, dealing 1,500% earth Hero Damage and slowing them by 40% for 5s.",
+    "cooldownSec": 30,
+    "type": "Earth",
+    "notes": "Any earth damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Overcharged Laser",
+    "description": "Fire a devastating magical blast dealing 2,500% magical Fire Hero Damage and knockback to one enemy.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to the premium pet Cyberdragon."
+  },
+  {
+    "name": "Plague Claw",
+    "description": "Calls forth a claw dealing 650% magical Hero Damage, increasing x1.5 per hit for the first 5 hits.",
+    "cooldownSec": 60,
+    "type": "Special",
+    "notes": "Bound to Scourge Dragon and Blighted Dragon."
+  },
+  {
+    "name": "Poison Cloud",
+    "description": "Fires a magical Snotball that stirs up a cloud of poison gas, dealing 600% Poison Hero Damage every second for 10 seconds.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to Slimy Ghost Cat pet."
+  },
+  {
+    "name": "Poison Shield",
+    "description": "Gain shield for 7s reflecting 1,750% damage before resist.",
+    "cooldownSec": 45,
+    "type": "Earth",
+    "notes": "Any earth damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Poison Spit",
+    "description": "Fires a Poison bolt dealing 2,000% earth Hero Damage and 150% damage per second for 6s.",
+    "cooldownSec": 30,
+    "type": "Earth",
+    "notes": "Any earth damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Poisonous Tips",
+    "description": "Attacks deal 120% bonus earth damage for 8s.",
+    "cooldownSec": 45,
+    "type": "Earth",
+    "notes": "Any earth damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Radial Blast",
+    "description": "Fires 8 plasma projectiles dealing 265% magical Hero Damage each.",
+    "cooldownSec": 20,
+    "type": "Special",
+    "notes": "Bound to the premium pet G4-T0."
+  },
+  {
+    "name": "Ring of Fire",
+    "description": "Unleashes a blast of blue flames burning enemies hit for 500% of your hero damage igniting them for 6 seconds.",
+    "cooldownSec": 60,
+    "type": "Special",
+    "notes": "Any Friendly Ghost pet can roll this (and gold variant)."
+  },
+  {
+    "name": "Rock Throw",
+    "description": "Throw a rock dealing 2,500% earth Hero Damage and knockback to one enemy.",
+    "cooldownSec": 30,
+    "type": "Earth",
+    "notes": "Any earth damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Sandstorm",
+    "description": "Increases speed by 50% and attacks deal 115% bonus earth Hero Damage for 7s.",
+    "cooldownSec": 30,
+    "type": "Earth",
+    "notes": "Any earth damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Sharknado (Xbox Only)",
+    "description": "A sharknado reduces enemy speed by 40% and deals 175% water Hero Damage per second for 6s.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to the Megadon pet (Xbox exclusive) dropping on Drakenfrost Resort."
+  },
+  {
+    "name": "Shinku Gatodouken",
+    "description": "Fire a devastating magical blast dealing 2,500% Hero Damage and knockback to one enemy.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to the premium pet Katkarot."
+  },
+  {
+    "name": "Shock Shield",
+    "description": "Gain a storm shield for 7s that reflects 2,000% damage taken before resists.",
+    "cooldownSec": 60,
+    "type": "Storm",
+    "notes": "Any storm damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Short Fuse",
+    "description": "Piercing orb deals 600% storm Hero Damage and 200% storm Hero Damage per second for 6s.",
+    "cooldownSec": 60,
+    "type": "Storm",
+    "notes": "Any storm damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Shuriken Fury",
+    "description": "Fires 6 shurikens dealing 355% magical Hero Damage each.",
+    "cooldownSec": 20,
+    "type": "Special",
+    "notes": "Bound to the premium pet Shinobi Kitty."
+  },
+  {
+    "name": "Snow Storm",
+    "description": "Decreases speed by 25% and attacks deal 165% bonus Frost Damage for 5s.",
+    "cooldownSec": 45,
+    "type": "Special",
+    "notes": "Only on Nutcracker, Penguin Commander, or Snow Mage pets (and gold variants)."
+  },
+  {
+    "name": "Snowball",
+    "description": "Fire a snowball dealing 2,750% water Hero Damage to one enemy.",
+    "cooldownSec": 30,
+    "type": "Water",
+    "notes": "Any water damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Soothing Water",
+    "description": "Magical waters restore 300% Hero Damage as health.",
+    "cooldownSec": 20,
+    "type": "Water",
+    "notes": "Any water damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Sparkle Party",
+    "description": "Dazzles nearby enemies for 1,000% magical Hero Damage and stunning them for 5s.",
+    "cooldownSec": 30,
+    "type": "Gato",
+    "notes": "Any Gato pet without set abilities can roll this."
+  },
+  {
+    "name": "Stalagmite",
+    "description": "Stalagmites knockup nearby foes and deals 1,000% earth Hero Damage.",
+    "cooldownSec": 30,
+    "type": "Earth",
+    "notes": "Any earth damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Sticky Bomb",
+    "description": "Throws a sticky bomb that deals 1,000% hero damage on impact and spreads mini bombs to nearby target dealing 500% hero damage.",
+    "cooldownSec": 35,
+    "type": "Special",
+    "notes": "Any Kobold King and Kobold Bling King pet can roll this."
+  },
+  {
+    "name": "Stinky Pits",
+    "description": "Deals 300% earth Hero Damage each second for 6s to nearby enemies.",
+    "cooldownSec": 45,
+    "type": "Earth",
+    "notes": "Any earth damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Stranglethorn",
+    "description": "Fires a piercing vine that stuns and deals 180% earth hero damage per second for 5s.",
+    "cooldownSec": 30,
+    "type": "Earth",
+    "notes": "Any earth damage pet that doesn't have set abilities can roll this."
+  },
+  {
+    "name": "Sword Beam",
+    "description": "Fires a Beam toward your enemies, dealing 2,000% magical Hero Damage.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to Voodoo Squire pet from Prime VII."
+  },
+  {
+    "name": "Table Flip",
+    "description": "Flip table at an enemy dealing 2,750% magical Hero Damage.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to the premium pet Table Flipper."
+  },
+  {
+    "name": "Thunderstorm",
+    "description": "Creates a thunderstorm dealing 750% storm Hero Damage per second for 3s.",
+    "cooldownSec": 60,
+    "type": "Special",
+    "notes": "Bound to Thunder-O and Reforged Thunder-O."
+  },
+  {
+    "name": "Tormented Thoughts",
+    "description": "Enemies take 150% magical Hero Damage per second for 8s and explode for 400% on death.",
+    "cooldownSec": 60,
+    "type": "Special",
+    "notes": "Bound to the premium pet Headless Horseman."
+  },
+  {
+    "name": "Tornado",
+    "description": "Fires a Tornado toward your enemies, dealing 1,850% magical Hero Damage and knocking up enemies for 5s.",
+    "cooldownSec": 30,
+    "type": "Special",
+    "notes": "Bound to Voodoo Apprentice pet from Prime VII."
+  },
+  {
+    "name": "Tsunami",
+    "description": "Rolls a wave dealing 3,000% water Hero Damage and drenching enemies for 5s.",
+    "cooldownSec": 40,
+    "type": "Special",
+    "notes": "Any Haunted Ship pet can roll this (and gold variant)."
+  },
+  {
+    "name": "Unified Defense",
+    "description": "Shields for 6 sec, reflecting 750% water damage and dealing 400% water Hero Damage per second.",
+    "cooldownSec": 60,
+    "type": "Special",
+    "notes": "Bound to Narwhagon and Left Narwhagon."
+  },
+  {
+    "name": "Void Tendrils",
+    "description": "Fires piercing void tendrils, stunning enemies and dealing 175% magical Hero Damage over 7s.",
+    "cooldownSec": 45,
+    "type": "Special",
+    "notes": "Bound to the premium pet Evilwick."
+  },
+  {
+    "name": "Whirlwind",
+    "description": "Increases speed by 50% and attacks deal 155% bonus electric Hero Damage for 6s.",
+    "cooldownSec": 45,
+    "type": "Special",
+    "notes": "Bound to the premium pet Cyborgie."
+  }
+]

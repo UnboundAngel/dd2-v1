@@ -1,0 +1,109 @@
+{
+  "heroes": [
+    {
+      "id": "h20",
+      "name": "Squire",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/9/91/Squire_Icon.png"
+    },
+    {
+      "id": "h3",
+      "name": "Apprentice",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/2/2d/Apprentice_Icon.png"
+    },
+    {
+      "id": "h13",
+      "name": "Huntress",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/9/96/Huntress_Icon.png"
+    },
+    {
+      "id": "h17",
+      "name": "Monk",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/3/3d/Monk_Icon.png"
+    },
+    {
+      "id": "h1",
+      "name": "Abyss Lord",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/6/65/Abyss_Lord_Icon.png"
+    },
+    {
+      "id": "h2",
+      "name": "Adept",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/8/88/Adept_Icon.png"
+    },
+    {
+      "id": "h4",
+      "name": "Aquarion",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/c/c2/Aquarion_Icon.png"
+    },
+    {
+      "id": "h5",
+      "name": "Barbarian",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/a/a2/Barbarian_Icon.png"
+    },
+    {
+      "id": "h6",
+      "name": "Countess",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/c/c5/Countess_Icon.png"
+    },
+    {
+      "id": "h7",
+      "name": "Cyborg",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/5/5f/Cyborg_Icon.png"
+    },
+    {
+      "id": "h8",
+      "name": "Dryad",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/4/4d/Dryad_Icon.png"
+    },
+    {
+      "id": "h9",
+      "name": "Engineer",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/a/a7/Engineer_Icon.png"
+    },
+    {
+      "id": "h10",
+      "name": "Frostweaver",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/5/5d/Frostweaver_Icon.png"
+    },
+    {
+      "id": "h11",
+      "name": "Gunwitch",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/8/8f/Gunwitch_Icon.png"
+    },
+    {
+      "id": "h12",
+      "name": "Hunter",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/f/f6/Hunter_Icon.png"
+    },
+    {
+      "id": "h14",
+      "name": "Initiate",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/8/88/Initiate_Icon.png"
+    },
+    {
+      "id": "h15",
+      "name": "Lavamancer",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/c/c8/Lavamancer_Icon.png"
+    },
+    {
+      "id": "h16",
+      "name": "Mercenary",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/3/36/Mercenary_Icon.png"
+    },
+    {
+      "id": "h18",
+      "name": "Mystic",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/8/8f/Mystic_Icon.png"
+    },
+    {
+      "id": "h19",
+      "name": "Series EV2",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/d/d3/Series_EV2_Icon.png"
+    },
+    {
+      "id": "h21",
+      "name": "Jester",
+      "iconUrl": "https://static.wikia.nocookie.net/dungeondefenders/images/9/9d/Jester_Icon.png"
+    }
+  ]
+}

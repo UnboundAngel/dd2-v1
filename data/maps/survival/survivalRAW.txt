@@ -1,0 +1,966 @@
+Starting Mana
+(Gates of Dragonfall)																		
+Wave	Group	Mutators		Godly Gear Drops		Chaos 11		Chaos 12		Chaos 13		Chaos 14		Chaos 15	
+1	800	Chaos 1	-	-		Region	Drop Type		Vanguards		Vanguards		Vanguards		Vanguards		Vanguards	
+2	800	Chaos 1	-	-		
+Dragonfall Town
+Helmet & Relic	Geodes		Cyborks		Cyborks		Cyborks		Cyborks	
+3	800	Chaos 1	-	-		
+Dragonfall Castle
+Chest & Weapon	Berserkers		Berserkers		Geodes		Geodes		Geodes	
+4	800	Chaos 1	-	-		The Liferoot	Gloves & Boots	Hex Throwers		Hex Throwers		Berserkers		Berserkers		Berserkers	
+5	800	Chaos 1	-	-		Ancient Ruins	Chest & Relic	Kobolts		Spiders		Hex Throwers		Hex Throwers		Hex Thrower	
+6	800	Chaos 2	-	-		Rotting Ravine	Helmet & Boots	Elder Wyverns		
+Beserker Goblins
+Kobolts		Spiders		Dark Assassins	
+7	800	Chaos 2	-	-		Lost Dungeons	Gloves & Weapon	Orc Queens		Orc Queens		Elder Wyverns		
+Beserker Goblins
+Beserker Goblins
+8	800	Chaos 2	-	-		The High Seas	Gloves & Relic			Orc Chieftains		Orc Queens		Orc Queens		Orc Queens	
+9	800	Chaos 2	-	-		Drakenfrost	Helmet & Chest			Frost Enemies				Orc Chieftains		Orc Chieftains	
+10	800	Chaos 2	-	-		The Wild West	Boots & Weapon							Frost Enemies		Frost Enemies	
+11	800	Chaos 3	-	-		
+Tornado Valley
+Helmet & Weapon										
+12	800	Chaos 3	-	-															
+13	800	Chaos 3	-	-								Expediton To Survival Unlocks			
+14	800	Chaos 3	-	-		Map Name	Godly Drop Multiplier		Tier	Wave Equivalent	Starting Checkpoint			
+15	800	Chaos 3	-	-		The Gates of Dragonfall	0.5		Chaos 1	Wave 1~5	Wave 6			
+16	800	Chaos 4	-	-		Dragonfall Bazaar	0.8		Chaos 2	Wave 6~10	Wave 11			
+17	800	Chaos 4	-	-		Greystone Plaza	1		Chaos 3	Wave 11~15	Wave 16			
+18	800	Chaos 4	-	-		Little-Horn Valley	1.2		Chaos 4	Wave 16~20	Wave 21			
+19	800	Chaos 4	-	-		The Throne Room	1		Chaos 5	Wave 21~25	Wave 26			
+20	800	Chaos 4	-	-		Assault on Throne Room	1.12		Chaos 6	Wave 26~30	Wave 31			
+21	800	Chaos 5	-	-		The Ramparts	0.9		Chaos 7	Wave 31~40	Wave 41			
+22	800	Chaos 5	-	-		Ramparts Siege	0.9		Chaos 8	Wave 41~50	Wave 51			
+23	800	Chaos 5	-	-		Dragonfall Sewers	1.05		Chaos 9	Wave 51~60	Wave 61			
+24	800	Chaos 5	-	-		Siphon Site D	1.1		Chaos 10	Wave 61~70	Wave 71			
+25	800	Chaos 5	-	-		The Dead Road	1.1									
+26	800	Chaos 6	-	-		Temple of the Necrotic	1									
+27	800	Chaos 6	-	-		Forest Biome	0.85									
+28	800	Chaos 6	-	-		Forest Crossroads	0.85									
+29	800	Chaos 6	-	-		Liferoot Forest	0.85									
+30	800	Chaos 6	-	-		Forgotten Ruins	0.95									
+31	800	Chaos 7	-	-		Nimbus Reach	1.1									
+32	800	Chaos 7	-	-		Plunderer's Paradise	1.2									
+33	800	Chaos 7	-	-		The Jacked Sparrow	0.9									
+34	800	Chaos 7	-	-		Unholy Catacombs	1.12									
+35	800	Chaos 7	-	-		Crumbled Bulwark	1.05									
+36	800	Chaos 7	-	-		Buried Bastille	1.05									
+37	800	Chaos 7	-	-		Molten Citadel	1									
+38	800	Chaos 7	-	-		Embermount Volcano	1.1									
+39	800	Chaos 7	-	-		Drakenfrost Resort	1.1									
+40	800	Chaos 7	-	-		Drakenfrost Keep	1.15									
+41	800	Chaos 8	-	-		Wild Westival	1									
+42	800	Chaos 8	-	-		The Wildest West	1.2									
+43	800	Chaos 8	-	-		Tornado Canyon	1									
+44	800	Chaos 8	-	-		Tornado Highlands	1									
+45	800	Chaos 8	-	-		Crystal Mine	1.05									
+46	800	Chaos 8	-	-		Lava Caverns	1.05									
+47	800	Chaos 8	-	-															
+48	800	Chaos 8	-	-															
+49	800	Chaos 8	-	-															
+50	800	Chaos 8	-	-															
+51	800	Chaos 9	-	-															
+52	800	Chaos 9	-	-															
+53	800	Chaos 9	-	-															
+54	800	Chaos 9	-	-															
+55	800	Chaos 9	-	-															
+56	800	Chaos 9	-	-															
+57	800	Chaos 9	-	-															
+58	800	Chaos 9	-	-															
+59	800	Chaos 9	-	-															
+60	800	Chaos 9	-	-															
+61	800	Chaos 10	-	-															
+62	800	Chaos 10	-	-															
+63	800	Chaos 10	-	-															
+64	800	Chaos 10	-	-															
+65	800	Chaos 10	-	-															
+66	800	Chaos 10	-	-															
+67	800	Chaos 10	-	-															
+68	800	Chaos 10	-	-															
+69	800	Chaos 10	-	-															
+70	800	Chaos 10	-	-															
+71	804	Chaos 11	-	-															
+72	808	Chaos 11	-	-															
+73	812	Chaos 11	-	-															
+74	816	Chaos 11	-	-															
+75	820	Chaos 11	-	-															
+76	824	Chaos 11	-	-															
+77	828	Chaos 11	-	-															
+78	832	Chaos 11	-	-															
+79	836	Chaos 11	-	-															
+80	840	Chaos 11	-	-															
+81	844	Chaos 11	-	-															
+82	848	Chaos 11	-	-															
+83	852	Chaos 11	-	-															
+84	856	Chaos 11	-	-															
+85	860	Chaos 11	-	-															
+86	864	Chaos 11	-	-															
+87	868	Chaos 11	-	-															
+88	872	Chaos 11	-	-															
+89	876	Chaos 11	-	-															
+90	880	Chaos 11	-	-															
+91	884	Chaos 12	-	-															
+92	888	Chaos 12	-	-															
+93	892	Chaos 12	-	-															
+94	896	Chaos 12	-	-															
+95	900	Chaos 12	-	-															
+96	904	Chaos 12	-	-															
+97	908	Chaos 12	-	-															
+98	912	Chaos 12	-	-															
+99	916	Chaos 12	-	-															
+100	920	Chaos 12	-	-															
+101	924	Chaos 12	-	-															
+102	928	Chaos 12	-	-															
+103	932	Chaos 12	-	-															
+104	936	Chaos 12	-	-															
+105	940	Chaos 12	-	-															
+106	944	Chaos 12	-	-															
+107	948	Chaos 12	-	-															
+108	952	Chaos 12	-	-															
+109	956	Chaos 12	-	-															
+110	960	Chaos 12	-	-															
+111	964	Chaos 13	-	-															
+112	968	Chaos 13	-	-															
+113	972	Chaos 13	-	-															
+114	976	Chaos 13	-	-															
+115	980	Chaos 13	-	-															
+116	984	Chaos 13	-	-															
+117	988	Chaos 13	-	-															
+118	992	Chaos 13	-	-															
+119	996	Chaos 13	-	-															
+120	1,000	Chaos 13	-	-															
+121	1,004	Chaos 13	-	-															
+122	1,008	Chaos 13	-	-															
+123	1,012	Chaos 13	-	-															
+124	1,016	Chaos 13	-	-															
+125	1,020	Chaos 13	-	-															
+126	1,024	Chaos 13	-	-															
+127	1,028	Chaos 13	-	-															
+128	1,032	Chaos 13	-	-															
+129	1,036	Chaos 13	-	-															
+130	1,040	Chaos 13	-	-															
+131	1,044	Chaos 14	-	-															
+132	1,048	Chaos 14	-	-															
+133	1,052	Chaos 14	-	-															
+134	1,056	Chaos 14	-	-															
+135	1,060	Chaos 14	-	-															
+136	1,064	Chaos 14	-	-															
+137	1,068	Chaos 14	-	-															
+138	1,072	Chaos 14	-	-															
+139	1,076	Chaos 14	-	-															
+140	1,080	Chaos 14	-	-															
+141	1,084	Chaos 14	-	-															
+142	1,088	Chaos 14	-	-															
+143	1,092	Chaos 14	-	-															
+144	1,096	Chaos 14	-	-															
+145	1,100	Chaos 14	-	-															
+146	1,104	Chaos 14	-	-															
+147	1,108	Chaos 14	-	-															
+148	1,112	Chaos 14	-	-															
+149	1,116	Chaos 14	-	-															
+150	1,120	Chaos 14	-	-															
+151	1,124	Chaos 15	-	-															
+152	1,128	Chaos 15	-	-															
+153	1,132	Chaos 15	-	-															
+154	1,136	Chaos 15	-	-															
+155	1,140	Chaos 15	-	-															
+156	1,144	Chaos 15	-	-															
+157	1,148	Chaos 15	-	-															
+158	1,152	Chaos 15	-	-															
+159	1,156	Chaos 15	-	-															
+160	1,160	Chaos 15	-	-															
+161	1,164	Chaos 15	-	-															
+162	1,168	Chaos 15	-	-															
+163	1,172	Chaos 15	-	-															
+164	1,176	Chaos 15	-	-															
+165	1,180	Chaos 15	-	-															
+166	1,184	Chaos 15	-	-															
+167	1,188	Chaos 15	-	-															
+168	1,192	Chaos 15	-	-															
+169	1,196	Chaos 15	-	-															
+170	1,200	Chaos 15	-	-															
+171	1,204	Chaos 15	-	-															
+172	1,208	Chaos 15	-	-															
+173	1,212	Chaos 15	-	-															
+174	1,216	Chaos 15	-	-															
+175	1,220	Chaos 15	-	-															
+176	1,224	Chaos 15	-	-															
+177	1,228	Chaos 15	-	-															
+178	1,232	Chaos 15	-	-															
+179	1,236	Chaos 15	-	-															
+180	1,240	Chaos 15	-	-															
+181	1,244	Chaos 15	-	-															
+182	1,248	Chaos 15	-	-															
+183	1,252	Chaos 15	-	-															
+184	1,256	Chaos 15	-	-															
+185	1,260	Chaos 15	-	-															
+186	1,264	Chaos 15	-	-															
+187	1,268	Chaos 15	-	-															
+188	1,272	Chaos 15	-	-															
+189	1,276	Chaos 15	-	-															
+190	1,280	Chaos 15	-	-															
+191	1,284	Chaos 15	-	-															
+192	1,288	Chaos 15	-	-															
+193	1,292	Chaos 15	-	-															
+194	1,296	Chaos 15	-	-															
+195	1,300	Chaos 15	-	-															
+196	1,304	Chaos 15	-	-															
+197	1,308	Chaos 15	-	-															
+198	1,312	Chaos 15	-	-															
+199	1,316	Chaos 15	-	-															
+200	1,320	Chaos 15	-	-															
+201	1,324	Chaos 15	-	-															
+202	1,328	Chaos 15	-	-															
+203	1,332	Chaos 15	-	-															
+204	1,336	Chaos 15	-	-															
+205	1,340	Chaos 15	-	-															
+206	1,344	Chaos 15	-	-															
+207	1,348	Chaos 15	-	-															
+208	1,352	Chaos 15	-	-															
+209	1,356	Chaos 15	-	-															
+210	1,360	Chaos 15	-	-															
+211	1,364	Chaos 15	-	-															
+212	1,368	Chaos 15	-	-															
+213	1,372	Chaos 15	-	-															
+214	1,376	Chaos 15	-	-															
+215	1,380	Chaos 15	-	-															
+216	1,384	Chaos 15	-	-															
+217	1,388	Chaos 15	-	-															
+218	1,392	Chaos 15	-	-															
+219	1,396	Chaos 15	-	-															
+220	1,400	Chaos 15	-	-															
+221	1,404	Chaos 15	-	-															
+222	1,408	Chaos 15	-	-															
+223	1,412	Chaos 15	-	-															
+224	1,416	Chaos 15	-	-															
+225	1,420	Chaos 15	-	-															
+226	1,424	Chaos 15	-	-															
+227	1,428	Chaos 15	-	-															
+228	1,432	Chaos 15	-	-															
+229	1,436	Chaos 15	-	-															
+230	1,440	Chaos 15	-	-															
+231	1,444	Chaos 15	-	-															
+232	1,448	Chaos 15	-	-															
+233	1,452	Chaos 15	-	-															
+234	1,456	Chaos 15	-	-															
+235	1,460	Chaos 15	-	-															
+236	1,464	Chaos 15	-	-															
+237	1,468	Chaos 15	-	-															
+238	1,472	Chaos 15	-	-															
+239	1,476	Chaos 15	-	-															
+240	1,480	Chaos 15	-	-															
+241	1,484	Chaos 15	-	-															
+242	1,488	Chaos 15	-	-															
+243	1,492	Chaos 15	-	-															
+244	1,496	Chaos 15	-	-															
+245	1,500	Chaos 15	-	-															
+246	1,504	Chaos 15	-	-															
+247	1,508	Chaos 15	-	-															
+248	1,512	Chaos 15	-	-															
+249	1,516	Chaos 15	-	-															
+250	1,520	Chaos 15	-	-															
+251	1,524	Chaos 15	-	-															
+252	1,528	Chaos 15	-	-															
+253	1,532	Chaos 15	-	-															
+254	1,536	Chaos 15	-	-															
+255	1,540	Chaos 15	-	-															
+256	1,544	Chaos 15	-	-															
+257	1,548	Chaos 15	-	-															
+258	1,552	Chaos 15	-	-															
+259	1,556	Chaos 15	-	-															
+260	1,560	Chaos 15	-	-															
+261	1,564	Chaos 15	-	-															
+262	1,568	Chaos 15	-	-															
+263	1,572	Chaos 15	-	-															
+264	1,576	Chaos 15	-	-															
+265	1,580	Chaos 15	-	-															
+266	1,584	Chaos 15	-	-															
+267	1,588	Chaos 15	-	-															
+268	1,592	Chaos 15	-	-															
+269	1,596	Chaos 15	-	-															
+270	1,600	Chaos 15	-	-															
+271	1,604	Chaos 15	-	-															
+272	1,608	Chaos 15	-	-															
+273	1,612	Chaos 15	-	-															
+274	1,616	Chaos 15	-	-															
+275	1,620	Chaos 15	-	-															
+276	1,624	Chaos 15	
+5% Damage Reduction
+-															
+277	1,628	Chaos 15	
+5% Damage Reduction
+-															
+278	1,632	Chaos 15	
+5% Damage Reduction
+-															
+279	1,636	Chaos 15	
+5% Damage Reduction
+-															
+280	1,640	Chaos 15	
+5% Damage Reduction
+-															
+281	1,644	Chaos 15	
+5% Damage Reduction
+-															
+282	1,648	Chaos 15	
+5% Damage Reduction
+-															
+283	1,652	Chaos 15	
+5% Damage Reduction
+-															
+284	1,656	Chaos 15	
+5% Damage Reduction
+-															
+285	1,660	Chaos 15	
+5% Damage Reduction
+-															
+286	1,664	Chaos 15	
+10% Damage Reduction
+10% Movement Speed
+287	1,668	Chaos 15	
+10% Damage Reduction
+10% Movement Speed
+288	1,672	Chaos 15	
+10% Damage Reduction
+10% Movement Speed
+289	1,676	Chaos 15	
+10% Damage Reduction
+10% Movement Speed
+290	1,680	Chaos 15	
+10% Damage Reduction
+10% Movement Speed
+291	1,684	Chaos 15	
+10% Damage Reduction
+10% Movement Speed
+292	1,688	Chaos 15	
+10% Damage Reduction
+10% Movement Speed
+293	1,692	Chaos 15	
+10% Damage Reduction
+10% Movement Speed
+294	1,696	Chaos 15	
+10% Damage Reduction
+10% Movement Speed
+295	1,700	Chaos 15	
+10% Damage Reduction
+10% Movement Speed
+296	1,704	Chaos 15	
+15% Damage Reduction
+10% Movement Speed
+297	1,708	Chaos 15	
+15% Damage Reduction
+10% Movement Speed
+298	1,712	Chaos 15	
+15% Damage Reduction
+10% Movement Speed
+299	1,716	Chaos 15	
+15% Damage Reduction
+10% Movement Speed
+300	1,720	Chaos 15	
+15% Damage Reduction
+10% Movement Speed
+301	1,724	Chaos 15	
+15% Damage Reduction
+10% Movement Speed
+302	1,728	Chaos 15	
+15% Damage Reduction
+10% Movement Speed
+303	1,732	Chaos 15	
+15% Damage Reduction
+10% Movement Speed
+304	1,736	Chaos 15	
+15% Damage Reduction
+10% Movement Speed
+305	1,740	Chaos 15	
+15% Damage Reduction
+10% Movement Speed
+306	1,744	Chaos 15	
+20% Damage Reduction
+20% Movement Speed
+307	1,748	Chaos 15	
+20% Damage Reduction
+20% Movement Speed
+308	1,752	Chaos 15	
+20% Damage Reduction
+20% Movement Speed
+309	1,756	Chaos 15	
+20% Damage Reduction
+20% Movement Speed
+310	1,760	Chaos 15	
+20% Damage Reduction
+20% Movement Speed
+311	1,764	Chaos 15	
+20% Damage Reduction
+20% Movement Speed
+312	1,768	Chaos 15	
+20% Damage Reduction
+20% Movement Speed
+313	1,772	Chaos 15	
+20% Damage Reduction
+20% Movement Speed
+314	1,776	Chaos 15	
+20% Damage Reduction
+20% Movement Speed
+315	1,780	Chaos 15	
+20% Damage Reduction
+20% Movement Speed
+316	1,784	Chaos 15	
+25% Damage Reduction
+20% Movement Speed
+317	1,788	Chaos 15	
+25% Damage Reduction
+20% Movement Speed
+318	1,792	Chaos 15	
+25% Damage Reduction
+20% Movement Speed
+319	1,796	Chaos 15	
+25% Damage Reduction
+20% Movement Speed
+320	1,800	Chaos 15	
+25% Damage Reduction
+20% Movement Speed
+321	1,804	Chaos 15	
+25% Damage Reduction
+20% Movement Speed
+322	1,808	Chaos 15	
+25% Damage Reduction
+20% Movement Speed
+323	1,812	Chaos 15	
+25% Damage Reduction
+20% Movement Speed
+324	1,816	Chaos 15	
+25% Damage Reduction
+20% Movement Speed
+325	1,820	Chaos 15	
+25% Damage Reduction
+20% Movement Speed
+326	1,824	Chaos 15	
+30% Damage Reduction
+30% Movement Speed
+327	1,828	Chaos 15	
+30% Damage Reduction
+30% Movement Speed
+328	1,832	Chaos 15	
+30% Damage Reduction
+30% Movement Speed
+329	1,836	Chaos 15	
+30% Damage Reduction
+30% Movement Speed
+330	1,840	Chaos 15	
+30% Damage Reduction
+30% Movement Speed
+331	1,844	Chaos 15	
+30% Damage Reduction
+30% Movement Speed
+332	1,848	Chaos 15	
+30% Damage Reduction
+30% Movement Speed
+333	1,852	Chaos 15	
+30% Damage Reduction
+30% Movement Speed
+334	1,856	Chaos 15	
+30% Damage Reduction
+30% Movement Speed
+335	1,860	Chaos 15	
+30% Damage Reduction
+30% Movement Speed
+336	1,864	Chaos 15	
+35% Damage Reduction
+30% Movement Speed
+337	1,868	Chaos 15	
+35% Damage Reduction
+30% Movement Speed
+338	1,872	Chaos 15	
+35% Damage Reduction
+30% Movement Speed
+339	1,876	Chaos 15	
+35% Damage Reduction
+30% Movement Speed
+340	1,880	Chaos 15	
+35% Damage Reduction
+30% Movement Speed
+341	1,884	Chaos 15	
+35% Damage Reduction
+30% Movement Speed
+342	1,888	Chaos 15	
+35% Damage Reduction
+30% Movement Speed
+343	1,892	Chaos 15	
+35% Damage Reduction
+30% Movement Speed
+344	1,896	Chaos 15	
+35% Damage Reduction
+30% Movement Speed
+345	1,900	Chaos 15	
+35% Damage Reduction
+30% Movement Speed
+346	1,904	Chaos 15	
+40% Damage Reduction
+40% Movement Speed
+347	1,908	Chaos 15	
+40% Damage Reduction
+40% Movement Speed
+348	1,912	Chaos 15	
+40% Damage Reduction
+40% Movement Speed
+349	1,916	Chaos 15	
+40% Damage Reduction
+40% Movement Speed
+350	1,920	Chaos 15	
+40% Damage Reduction
+40% Movement Speed
+351	1,924	Chaos 15	
+40% Damage Reduction
+40% Movement Speed
+352	1,928	Chaos 15	
+40% Damage Reduction
+40% Movement Speed
+353	1,932	Chaos 15	
+40% Damage Reduction
+40% Movement Speed
+354	1,936	Chaos 15	
+40% Damage Reduction
+40% Movement Speed
+355	1,940	Chaos 15	
+40% Damage Reduction
+40% Movement Speed
+356	1,944	Chaos 15	
+45% Damage Reduction
+40% Movement Speed
+357	1,948	Chaos 15	
+45% Damage Reduction
+40% Movement Speed
+358	1,952	Chaos 15	
+45% Damage Reduction
+40% Movement Speed
+359	1,956	Chaos 15	
+45% Damage Reduction
+40% Movement Speed
+360	1,960	Chaos 15	
+45% Damage Reduction
+40% Movement Speed
+361	1,964	Chaos 15	
+45% Damage Reduction
+40% Movement Speed
+362	1,968	Chaos 15	
+45% Damage Reduction
+40% Movement Speed
+363	1,972	Chaos 15	
+45% Damage Reduction
+40% Movement Speed
+364	1,976	Chaos 15	
+45% Damage Reduction
+40% Movement Speed
+365	1,980	Chaos 15	
+45% Damage Reduction
+40% Movement Speed
+366	1,984	Chaos 15	
+50% Damage Reduction
+50% Movement Speed
+367	1,988	Chaos 15	
+50% Damage Reduction
+50% Movement Speed
+368	1,992	Chaos 15	
+50% Damage Reduction
+50% Movement Speed
+369	1,996	Chaos 15	
+50% Damage Reduction
+50% Movement Speed
+370	2,000	Chaos 15	
+50% Damage Reduction
+50% Movement Speed
+371	2,004	Chaos 15	
+50% Damage Reduction
+50% Movement Speed
+372	2,008	Chaos 15	
+50% Damage Reduction
+50% Movement Speed
+373	2,012	Chaos 15	
+50% Damage Reduction
+50% Movement Speed
+374	2,016	Chaos 15	
+50% Damage Reduction
+50% Movement Speed
+375	2,020	Chaos 15	
+50% Damage Reduction
+50% Movement Speed
+376	2,024	Chaos 15	
+55% Damage Reduction
+50% Movement Speed
+377	2,028	Chaos 15	
+55% Damage Reduction
+50% Movement Speed
+378	2,032	Chaos 15	
+55% Damage Reduction
+50% Movement Speed
+379	2,036	Chaos 15	
+55% Damage Reduction
+50% Movement Speed
+380	2,040	Chaos 15	
+55% Damage Reduction
+50% Movement Speed
+381	2,044	Chaos 15	
+55% Damage Reduction
+50% Movement Speed
+382	2,048	Chaos 15	
+55% Damage Reduction
+50% Movement Speed
+383	2,052	Chaos 15	
+55% Damage Reduction
+50% Movement Speed
+384	2,056	Chaos 15	
+55% Damage Reduction
+50% Movement Speed
+385	2,060	Chaos 15	
+55% Damage Reduction
+50% Movement Speed
+386	2,064	Chaos 15	
+60% Damage Reduction
+60% Movement Speed
+387	2,068	Chaos 15	
+60% Damage Reduction
+60% Movement Speed
+388	2,072	Chaos 15	
+60% Damage Reduction
+60% Movement Speed
+389	2,076	Chaos 15	
+60% Damage Reduction
+60% Movement Speed
+390	2,080	Chaos 15	
+60% Damage Reduction
+60% Movement Speed
+391	2,084	Chaos 15	
+60% Damage Reduction
+60% Movement Speed
+392	2,088	Chaos 15	
+60% Damage Reduction
+60% Movement Speed
+393	2,092	Chaos 15	
+60% Damage Reduction
+60% Movement Speed
+394	2,096	Chaos 15	
+60% Damage Reduction
+60% Movement Speed
+395	2,100	Chaos 15	
+60% Damage Reduction
+60% Movement Speed
+396	2,104	Chaos 15	
+65% Damage Reduction
+60% Movement Speed
+397	2,108	Chaos 15	
+65% Damage Reduction
+60% Movement Speed
+398	2,112	Chaos 15	
+65% Damage Reduction
+60% Movement Speed
+399	2,116	Chaos 15	
+65% Damage Reduction
+60% Movement Speed
+400	2,120	Chaos 15	
+65% Damage Reduction
+60% Movement Speed
+401	2,124	Chaos 15	
+65% Damage Reduction
+60% Movement Speed
+402	2,128	Chaos 15	
+65% Damage Reduction
+60% Movement Speed
+403	2,132	Chaos 15	
+65% Damage Reduction
+60% Movement Speed
+404	2,136	Chaos 15	
+65% Damage Reduction
+60% Movement Speed
+405	2,140	Chaos 15	
+65% Damage Reduction
+60% Movement Speed
+406	2,144	Chaos 15	
+70% Damage Reduction
+70% Movement Speed
+407	2,148	Chaos 15	
+70% Damage Reduction
+70% Movement Speed
+408	2,152	Chaos 15	
+70% Damage Reduction
+70% Movement Speed
+409	2,156	Chaos 15	
+70% Damage Reduction
+70% Movement Speed
+410	2,160	Chaos 15	
+70% Damage Reduction
+70% Movement Speed
+411	2,164	Chaos 15	
+70% Damage Reduction
+70% Movement Speed
+412	2,168	Chaos 15	
+70% Damage Reduction
+70% Movement Speed
+413	2,172	Chaos 15	
+70% Damage Reduction
+70% Movement Speed
+414	2,176	Chaos 15	
+70% Damage Reduction
+70% Movement Speed
+415	2,180	Chaos 15	
+70% Damage Reduction
+70% Movement Speed
+416	2,184	Chaos 15	
+75% Damage Reduction
+70% Movement Speed
+417	2,188	Chaos 15	
+75% Damage Reduction
+70% Movement Speed
+418	2,192	Chaos 15	
+75% Damage Reduction
+70% Movement Speed
+419	2,196	Chaos 15	
+75% Damage Reduction
+70% Movement Speed
+420	2,200	Chaos 15	
+75% Damage Reduction
+70% Movement Speed
+421	2,204	Chaos 15	
+75% Damage Reduction
+70% Movement Speed
+422	2,208	Chaos 15	
+75% Damage Reduction
+70% Movement Speed
+423	2,212	Chaos 15	
+75% Damage Reduction
+70% Movement Speed
+424	2,216	Chaos 15	
+75% Damage Reduction
+70% Movement Speed
+425	2,220	Chaos 15	
+75% Damage Reduction
+70% Movement Speed
+426	2,224	Chaos 15	
+80% Damage Reduction
+80% Movement Speed
+427	2,228	Chaos 15	
+80% Damage Reduction
+80% Movement Speed
+428	2,232	Chaos 15	
+80% Damage Reduction
+80% Movement Speed
+429	2,236	Chaos 15	
+80% Damage Reduction
+80% Movement Speed
+430	2,240	Chaos 15	
+80% Damage Reduction
+80% Movement Speed
+431	2,244	Chaos 15	
+80% Damage Reduction
+80% Movement Speed
+432	2,248	Chaos 15	
+80% Damage Reduction
+80% Movement Speed
+433	2,252	Chaos 15	
+80% Damage Reduction
+80% Movement Speed
+434	2,256	Chaos 15	
+80% Damage Reduction
+80% Movement Speed
+435	2,260	Chaos 15	
+80% Damage Reduction
+80% Movement Speed
+436	2,264	Chaos 15	
+85% Damage Reduction
+80% Movement Speed
+437	2,268	Chaos 15	
+85% Damage Reduction
+80% Movement Speed
+438	2,272	Chaos 15	
+85% Damage Reduction
+80% Movement Speed
+439	2,276	Chaos 15	
+85% Damage Reduction
+80% Movement Speed
+440	2,280	Chaos 15	
+85% Damage Reduction
+80% Movement Speed
+441	2,284	Chaos 15	
+85% Damage Reduction
+80% Movement Speed
+442	2,288	Chaos 15	
+85% Damage Reduction
+80% Movement Speed
+443	2,292	Chaos 15	
+85% Damage Reduction
+80% Movement Speed
+444	2,296	Chaos 15	
+85% Damage Reduction
+80% Movement Speed
+445	2,300	Chaos 15	
+85% Damage Reduction
+80% Movement Speed
+446	2,304	Chaos 15	
+90% Damage Reduction
+90% Movement Speed
+447	2,308	Chaos 15	
+90% Damage Reduction
+90% Movement Speed
+448	2,312	Chaos 15	
+90% Damage Reduction
+90% Movement Speed
+449	2,316	Chaos 15	
+90% Damage Reduction
+90% Movement Speed
+450	2,320	Chaos 15	
+90% Damage Reduction
+90% Movement Speed
+451	2,324	Chaos 15	
+90% Damage Reduction
+90% Movement Speed
+452	2,328	Chaos 15	
+90% Damage Reduction
+90% Movement Speed
+453	2,332	Chaos 15	
+90% Damage Reduction
+90% Movement Speed
+454	2,336	Chaos 15	
+90% Damage Reduction
+90% Movement Speed
+455	2,340	Chaos 15	
+90% Damage Reduction
+90% Movement Speed
+456	2,344	Chaos 15	
+95% Damage Reduction
+90% Movement Speed
+457	2,348	Chaos 15	
+95% Damage Reduction
+90% Movement Speed
+458	2,352	Chaos 15	
+95% Damage Reduction
+90% Movement Speed
+459	2,356	Chaos 15	
+95% Damage Reduction
+90% Movement Speed
+460	2,360	Chaos 15	
+95% Damage Reduction
+90% Movement Speed
+461	2,364	Chaos 15	
+95% Damage Reduction
+90% Movement Speed
+462	2,368	Chaos 15	
+95% Damage Reduction
+90% Movement Speed
+463	2,372	Chaos 15	
+95% Damage Reduction
+90% Movement Speed
+464	2,376	Chaos 15	
+95% Damage Reduction
+90% Movement Speed
+465	2,380	Chaos 15	
+95% Damage Reduction
+90% Movement Speed
+466	2,384	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+467	2,388	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+468	2,392	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+469	2,396	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+470	2,400	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+471	2,404	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+472	2,408	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+473	2,412	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+474	2,416	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+475	2,420	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+476	2,424	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+477	2,428	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+478	2,432	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+479	2,436	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+480	2,440	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+481	2,444	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+482	2,448	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+483	2,452	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+484	2,456	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+485	2,460	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+486	2,464	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+487	2,468	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+488	2,472	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+489	2,476	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+490	2,480	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+491	2,484	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+492	2,488	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+493	2,492	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+494	2,496	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+495	2,500	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+496	2,504	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+497	2,508	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+498	2,512	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+499	2,516	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+500	2,520	Chaos 15	
+95% Damage Reduction
+100% Movement Speed
+501	2,524	Chaos 15	
+95% Damage Reduction
+100% Movement Speed

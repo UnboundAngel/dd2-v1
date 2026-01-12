@@ -1,0 +1,216 @@
+{
+  "$schema": "https://example.invalid/dd2/survival/starting-mana-and-mutators.schema.json",
+  "source": {
+    "file": "survivalRAW.txt",
+    "notes": "Derived from the uploaded Survival table."
+  },
+  "rules": {
+    "startingMana": {
+      "type": "piecewise",
+      "segments": [
+        {
+          "waveMin": 1,
+          "waveMax": 70,
+          "mana": { "type": "const", "value": 800 }
+        },
+        {
+          "waveMin": 71,
+          "waveMax": null,
+          "mana": {
+            "type": "formula",
+            "formula": "800 + 4*(wave-70)",
+            "vars": ["wave"],
+            "examples": [
+              { "wave": 71, "mana": 804 },
+              { "wave": 90, "mana": 880 },
+              { "wave": 120, "mana": 1000 }
+            ]
+          }
+        }
+      ]
+    },
+    "chaosTierByWave": {
+      "type": "ranges",
+      "ranges": [
+        { "waveMin": 1, "waveMax": 5, "chaosTier": 1 },
+        { "waveMin": 6, "waveMax": 10, "chaosTier": 2 },
+        { "waveMin": 11, "waveMax": 15, "chaosTier": 3 },
+        { "waveMin": 16, "waveMax": 20, "chaosTier": 4 },
+        { "waveMin": 21, "waveMax": 25, "chaosTier": 5 },
+        { "waveMin": 26, "waveMax": 30, "chaosTier": 6 },
+        { "waveMin": 31, "waveMax": 40, "chaosTier": 7 },
+        { "waveMin": 41, "waveMax": 50, "chaosTier": 8 },
+        { "waveMin": 51, "waveMax": 60, "chaosTier": 9 },
+        { "waveMin": 61, "waveMax": 70, "chaosTier": 10 },
+        { "waveMin": 71, "waveMax": 90, "chaosTier": 11 },
+        { "waveMin": 91, "waveMax": 110, "chaosTier": 12 },
+        { "waveMin": 111, "waveMax": 130, "chaosTier": 13 },
+        { "waveMin": 131, "waveMax": 150, "chaosTier": 14 },
+        { "waveMin": 151, "waveMax": null, "chaosTier": 15 }
+      ]
+    },
+    "mutatorsByWave": {
+      "type": "ranges",
+      "default": [],
+      "ranges": [
+        {
+          "waveMin": 276,
+          "waveMax": 285,
+          "mutators": [{ "id": "damage_reduction", "value": 0.05 }]
+        },
+        {
+          "waveMin": 286,
+          "waveMax": 295,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.10 },
+            { "id": "movement_speed", "value": 0.10 }
+          ]
+        },
+        {
+          "waveMin": 296,
+          "waveMax": 305,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.15 },
+            { "id": "movement_speed", "value": 0.10 }
+          ]
+        },
+        {
+          "waveMin": 306,
+          "waveMax": 315,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.20 },
+            { "id": "movement_speed", "value": 0.20 }
+          ]
+        },
+        {
+          "waveMin": 316,
+          "waveMax": 325,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.25 },
+            { "id": "movement_speed", "value": 0.20 }
+          ]
+        },
+        {
+          "waveMin": 326,
+          "waveMax": 335,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.30 },
+            { "id": "movement_speed", "value": 0.30 }
+          ]
+        },
+        {
+          "waveMin": 336,
+          "waveMax": 345,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.35 },
+            { "id": "movement_speed", "value": 0.30 }
+          ]
+        },
+        {
+          "waveMin": 346,
+          "waveMax": 355,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.40 },
+            { "id": "movement_speed", "value": 0.40 }
+          ]
+        },
+        {
+          "waveMin": 356,
+          "waveMax": 365,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.45 },
+            { "id": "movement_speed", "value": 0.40 }
+          ]
+        },
+        {
+          "waveMin": 366,
+          "waveMax": 375,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.50 },
+            { "id": "movement_speed", "value": 0.50 }
+          ]
+        },
+        {
+          "waveMin": 376,
+          "waveMax": 385,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.55 },
+            { "id": "movement_speed", "value": 0.50 }
+          ]
+        },
+        {
+          "waveMin": 386,
+          "waveMax": 395,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.60 },
+            { "id": "movement_speed", "value": 0.60 }
+          ]
+        },
+        {
+          "waveMin": 396,
+          "waveMax": 405,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.65 },
+            { "id": "movement_speed", "value": 0.60 }
+          ]
+        },
+        {
+          "waveMin": 406,
+          "waveMax": 415,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.70 },
+            { "id": "movement_speed", "value": 0.70 }
+          ]
+        },
+        {
+          "waveMin": 416,
+          "waveMax": 425,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.75 },
+            { "id": "movement_speed", "value": 0.70 }
+          ]
+        },
+        {
+          "waveMin": 426,
+          "waveMax": 435,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.80 },
+            { "id": "movement_speed", "value": 0.80 }
+          ]
+        },
+        {
+          "waveMin": 436,
+          "waveMax": 445,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.85 },
+            { "id": "movement_speed", "value": 0.80 }
+          ]
+        },
+        {
+          "waveMin": 446,
+          "waveMax": 455,
+          "mutators": [
+            { "id": "damage_reduction", "value": 0.90 },
+            { "id": "movement_speed", "value": 0.90 }
+          ]
+        },
+        {
+            "waveMin": 456,
+            "waveMax": 465,
+            "mutators": [
+            { "id": "damage_reduction", "value": 0.95 },
+            { "id": "movement_speed", "value": 0.90 }
+            ]
+        },
+        {
+            "waveMin": 466,
+            "waveMax": 501,
+            "mutators": [
+            { "id": "damage_reduction", "value": 0.95 },
+            { "id": "movement_speed", "value": 1.00 }
+            ]
+        }
+        ]
+    }
+  }
+}
