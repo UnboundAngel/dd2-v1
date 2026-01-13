@@ -6,6 +6,9 @@ build/
 .turbo/
 .cache/
 
+# Private assets
+dd2_assets/
+
 # Env & secrets
 .env
 .env.local
